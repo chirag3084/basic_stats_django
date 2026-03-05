@@ -46,5 +46,6 @@ Statistics are visible for site staff. Login to you site as such user and go to 
 
 In Django admin panel you will also get "Mobile" model with all logged mobile devices.
 install requirements
+this is demo projedct 
 
 happy learning
